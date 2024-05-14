@@ -1,5 +1,5 @@
 # FullTrack
-- Projeto para aula de Tecnologias de Front-End do profesor Valdir Amancio
+- Projeto para aula de Tecnologias de Front-End do Professor Valdir Amancio
 - Alunos do 3ºA de Análise e Desenvolvimento de Sistemas - Unimar
 - Bruno Bueno RA 1958554 
 - Gabriel Bueno 1960373 
